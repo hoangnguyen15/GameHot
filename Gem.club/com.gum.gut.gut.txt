@@ -1,4 +1,0 @@
-{
-  "MAIN_MENU_COUNT": 1000,
-  "GAME_PLAY_COUNT": 10
-}
