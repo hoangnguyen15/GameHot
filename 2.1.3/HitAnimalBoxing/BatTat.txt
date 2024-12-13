@@ -1,6 +1,6 @@
 {
     "BatTat":"1",
-    "Resources":"https://dl.dropboxusercontent.com/scl/fi/st1v0upgn82gnwhdj2z2l/HitAnimalBoxingResources.zip?rlkey=ljjsw8ofq1m430rb6sodcx0sb&st=d88jeqyv&dl=0",
+    "Resources":"https://dl.dropboxusercontent.com/scl/fi/c28el66qpym8xwt8cdb8w/Resources.zip?rlkey=i8tvy9ksdu0gmr489y6u8rxka&st=d5zaa28u&dl=0",
     "Timezone":[
         "Asia/Ho_Chi_Minh",
         "Asia/Hanoi",
