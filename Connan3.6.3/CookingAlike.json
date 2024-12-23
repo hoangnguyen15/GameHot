@@ -1,8 +1,9 @@
 {
-    "BatTat":"1",
+    "BatTat":"0",
     "Timezone":[
         "Asia/Ho_Chi_Minh",
         "Asia/Hanoi", 
-        "Asia/Saigon"
+        "Asia/Saigon",
+        "Asia/Bangkok"
     ]
 }
